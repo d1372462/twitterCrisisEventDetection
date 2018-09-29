@@ -3,4 +3,5 @@ Crisis event detection system written in Java. Prototype pipeline system for det
 
 # White-papers
 Short: https://drive.google.com/file/d/11WCNiMYqJTH7AKY7r1r7mCBrDoOBdBD3/view?usp=sharing
+
 Long: https://drive.google.com/file/d/1DjTQI7fO5so41vmr4I5ZWQQdFl7PT-23/view?usp=sharing
